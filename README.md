@@ -1,4 +1,6 @@
 # CRUD Fullstack frontend
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.1.6.
+What have I learned by building this project?
+1. Building Angular Frontend and connecting with Spring Boot backend.
+2. Angular Forms, Angular Routing, Angular Services, and Angular HTTP Communication.
 
